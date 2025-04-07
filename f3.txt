@@ -1,0 +1,1 @@
+ AWS git version 2.47.1 
